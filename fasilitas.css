@@ -94,6 +94,41 @@
     color: #727D73;
     position: absolute;
     left: 25rem;
-    top: 70rem;
+    top: 60rem;
 }
+
+.k1 {
+    width: 1000px;
+    height: 180px;
+    border-radius: 10px;
+    border: 5px solid #727D73;
+    background-color: #FFFFFF;
+    position: relative;
+    top: 10rem;
+    left: 10rem;
+}
+
+.judul4 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #727D73;
+    position: absolute;
+    left: 14rem;
+    right: 14rem;
+    top: 74rem;
+    font-size: 20px;
+}
+
+.k2 {
+    width: 390px;
+    height: 600px;
+    border-radius: 10px;
+    border: 5px solid #727D73;
+    background-color: #FFFFFF;
+    position: absolute;
+    top: 90rem;
+    left: 6rem;
+}
+
+
+
 /* BERANDA END */
