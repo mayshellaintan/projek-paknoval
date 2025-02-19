@@ -1,3 +1,99 @@
-#judul1 "fasilitas masjid" {
-
+/* BERANDA */
+.back-logo {
+    background-color: #727D73;
+    width: 1440;
+    height: 100px; 
 }
+
+.logo {
+    position: absolute;
+    top: 18px;
+}
+
+.h2-logo {
+    color: #F0F0D7;
+    position: absolute;
+    padding: 20px;
+    left: 50px;
+    top: -5px;
+}
+
+.navbar {
+    background-color: #AAB99A;
+    width: 1440;
+    height: 50px;
+    position: relative;
+    top: -30px;
+}
+
+.ul-navbar {
+    display: flex;
+    height: 55px;
+    justify-content: center;
+    align-items: center;
+}
+
+.li-navbar {
+    list-style-type: none;
+    padding: 100px;
+    margin: 60px;
+    color: #334600;
+ }
+
+ #jadwal-sholat {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+    grid-gap: 1rem;
+    position: absolute;
+    width: 100%;
+    padding: 10px;
+    left: 45rem;
+    top: 1rem;
+  }
+
+  .jadwal-sholat {
+    display: flex;
+    flex-direction: column;
+    gap: 0.3rem;
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+    background-color: #AAB99A;
+    backdrop-filter: blur(10px);
+    color: #334600;
+    border-radius: 5px;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+  }  
+
+  .g1{
+    position: relative;
+    top: -2rem;
+}
+
+.judul {
+    color: #F0F0D7;
+    position: absolute;
+    top: 25rem;
+    left: 38rem;
+    font-size: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.judul2 {
+    color: #F0F0D7;
+    font-size: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 30rem;
+    left: 30rem;
+}
+
+.judul3 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #727D73;
+    position: absolute;
+    left: 25rem;
+    top: 70rem;
+}
+/* BERANDA END */
