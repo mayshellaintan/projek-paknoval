@@ -94,7 +94,7 @@
     font-family: Arial, Helvetica, sans-serif;
     color: #727D73;
     position: absolute;
-    left: 32rem;
+    left: 28rem;
     top: 70rem;
 }
 
@@ -106,7 +106,7 @@
     background-color: #FFFFFF;
     position: absolute;
     top: 80rem;
-    left: 35rem;
+    left: 30rem;
 }
 
 .k2 {
@@ -117,7 +117,7 @@
     background-color: #FFFFFF;
     position: absolute;
     top: 80rem;
-    left: 6rem;
+    left: 2rem;
 }
 
 .k3 {
@@ -128,22 +128,22 @@
     background-color: #FFFFFF;
     position: absolute;
     top: 80rem;
-    left: 65rem;
+    left: 58rem;
 }
 
 .g2 img{
-    position: relative;
-    top: 18rem;
-    left: 557px;
-    border-radius: 10px;
+    position: absolute;
+    top: 1284px;
+    left: 484px;
+    border-radius: 6px;
 }
 
 .g2 h2{
     color: #727D73;
     font-family: Arial, Helvetica, sans-serif;
     position: relative;
-    top: 18rem;
-    left: 42rem;
+    top: 35rem;
+    left: 37rem;
 }
 
 .g2 h3{
@@ -151,23 +151,23 @@
     position: relative;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 15px;
-    top: 21rem;
-    left: 37rem;
+    top: 38rem;
+    left: 32rem;
 }
 
 .g3 img {
-    position: relative;
-    top: -14rem;
-    left: 92px;
-    border-radius: 10px;
+    position: absolute;
+    top: 1284px;
+    left: 36px;
+    border-radius: 6px;
 }
 
 .g3 h2 {
     color: #727D73;
     font-family: Arial, Helvetica, sans-serif;
     position: relative;
-    top: -14rem;
-    left: 13rem;
+    top: 20rem;
+    left: 8rem;
  }
 
  .g3 h3 {
@@ -175,21 +175,57 @@
     position: relative;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 15px;
-    top: -10rem;
-    left: 7rem;
+    top: 23rem;
+    left: 3rem;
  }
 
 .g4 img {
-    position: relative;
-    border-radius: 10px;
-    left: 1037px;
-    top: -45rem;
+    position: absolute;
+    border-radius: 6px;
+    left: 932px;
+    top: 1284px;
 }
 
 .g4 h2 {
     color: #727D73;
     font-family: Arial, Helvetica, sans-serif;
     position: relative;
-    /* top: -42rem; */
-    /* left: 72rem; */
+    top: 6rem;
+    left: 65rem;
+}
+
+.g4 h3 {
+    color: #727D73;
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    top: 9rem;
+    left: 59rem;
+}
+
+.judul4 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #727D73;
+    position: absolute;
+    top: 130rem;
+    left: 40rem;
+}
+
+.k4 {
+    width: 650px;
+    height: 200px;
+    border-radius: 10px;
+    border: 5px solid #727D73;
+    background-color: #FFFFFF;
+    position: absolute;
+    top: 140rem;
+    left: 25rem;
+}
+
+.buletin {
+    color: #727D73;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    position: absolute;
+    top: 50rem;
 }
